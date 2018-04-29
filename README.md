@@ -7,15 +7,15 @@ Tracker : http://omg.wtftrackr.pw:1337
 You don't need to register, upload or index a torrent anywhere, all you have to do is to include the OMG.WtFtrackr.PW tracker URL in your torrent.
 ```
 Some stats as of this README.md file update!
-Uptime 0 years, 2 months, 18 days, 22 hours, 0 minutes and 55 seconds
-Peers 128697
-Seeds 52790
-Completed 3494233
+Uptime 0 years, 5 months, 25 days, 21 hours, 20 minutes and 28 seconds
+Peers 337536
+Seeds 259255
+Completed 11349840
 
-TCP: accept 652186281, announce 573685364, scrape 48284329
-UDP: overall 2194857, connect 1074074, announce 817106, scrape 206166, missmatch 13
+TCP: accept 2014222833, announce 1766163454, scrape 172332214
+UDP: overall 12267506, connect 6343362, announce 4638457, scrape 1170242, missmatch 26
 
-Record: 270890 Peers and 109468 Seeds
+Record: 715643 Peers and 545063 Seeds
 
 Donate BTC to 1PYNCZMDmeYYFsbYUH5axZUDwqZErNDapf
 ```
