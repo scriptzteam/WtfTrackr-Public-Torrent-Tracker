@@ -2,7 +2,7 @@
 
 WtFtrackr - is a bittorrent tracker free for anyone to use!
 
-HTTP Tracker : http://omg.wtftrackr.pw:1337
+HTTP Tracker : http://omg.wtftrackr.pw:1337  
 UDP Tracker  : udp://omg.wtftrackr.pw:1337
 
 You don't need to register, upload or index a torrent anywhere, all you have to do is to include the OMG.WtFtrackr.PW tracker URL in your torrent.
