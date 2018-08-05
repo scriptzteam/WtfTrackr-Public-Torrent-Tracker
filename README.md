@@ -2,19 +2,21 @@
 
 WtFtrackr - is a bittorrent tracker free for anyone to use!
 
-Tracker : http://omg.wtftrackr.pw:1337
+HTTP Tracker : http://omg.wtftrackr.pw:1337
+UDP Tracker  : udp://omg.wtftrackr.pw:1337
 
 You don't need to register, upload or index a torrent anywhere, all you have to do is to include the OMG.WtFtrackr.PW tracker URL in your torrent.
 ```
-Uptime 0 years, 2 months, 17 days, 0 hours, 4 minutes and 4 seconds
-Peers 859450
-Seeds 628356
-Completed 15824857
+Uptime 0 years, 0 months, 0 days, 2 hours, 29 minutes and 5 seconds
+Peers 732306
+Seeds 526911
+Completed 54511
 
-TCP: accept 3597875389, announce 3245548759, scrape 309883123
-UDP: overall 187668411, connect 96037858, announce 64673332, scrape 26808177, missmatch 36771
+TCP: accept 4666611, announce 4075043, scrape 493467
+UDP: overall 188197, connect 96003, announce 59969, scrape 31519, missmatch 455
 
-Record: 1141305 Peers and 901148 Seeds
+Record: 1210347 Peers and 928264 Seeds
+
 
 
 
