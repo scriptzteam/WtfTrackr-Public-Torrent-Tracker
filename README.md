@@ -9,13 +9,13 @@ UDP Tracker  : udp://omg.wtftrackr.pw:1337
 
 You don't need to register, upload or index a torrent anywhere, all you have to do is to include the OMG.WtFtrackr.PW tracker URL in your torrent.
 ```
-Uptime 0 years, 2 months, 0 days, 10 hours, 13 minutes and 45 seconds
-Peers 783127
-Seeds 624387
-Completed 8256219
+Uptime 0 years, 2 months, 10 days, 4 hours, 13 minutes and 36 seconds
+Peers 852796
+Seeds 617918
+Completed 9593517
 
-TCP: accept 1753352085, announce 1550608700, scrape 173453369
-UDP: overall 160372677, connect 81788061, announce 52623848, scrape 25851459, missmatch 37067
+TCP: accept 2095655266, announce 1860397551, scrape 201301969
+UDP: overall 186131188, connect 94891020, announce 61103291, scrape 30014090, missmatch 40674
 
 Record: 1210347 Peers and 928264 Seeds
 
